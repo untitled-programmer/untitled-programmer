@@ -6,7 +6,6 @@
 
 ***Contact Information:***
 
-- 📫 Email:   [untitled-guy](untitled-guy.freedom027@slmail.me)
 - 🐈‍⬛ GitHub:  [untitled-programmer](github.com/untitled-programmer)
 - 🪄 Discord: untitled_yapper
 - 🍊 Reddit:  [my-untitled-redditor](https://www.reddit.com/user/my-untitled-redditor/)
