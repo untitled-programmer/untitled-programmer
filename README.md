@@ -4,12 +4,6 @@
 
 **About Me 🤖**
 
-***Contact Information:***
-
-- 🐈‍⬛ GitHub:  [untitled-programmer](github.com/untitled-programmer)
-- 🪄 Discord: untitled_yapper
-- 🍊 Reddit:  [my-untitled-redditor](https://www.reddit.com/user/my-untitled-redditor/)
-
 **With a rich background in software development, I've had the privilege of working on a diverse array of projects that challenge the status quo and push technological boundaries. My expertise lies in creating applications that are not only functional but also user-centric and secure.**
 
 ****My Achievements 🏆****
@@ -56,32 +50,6 @@ Package is a versatile tool designed for gathering open-source intelligence. It 
 
 ****These projects reflect my commitment to leveraging technology for practical solutions and my passion for continuous learning and development.****
 
-**My Development Environment 🛠️**
-
-*To craft high-quality software, I rely on a suite of tools that enhance productivity and code quality:*
-
-**Code Editors:**
-
-- 🌳 VSCodium: A versatile editor with extensive plugin support for various programming languages.
-- 🐮 Nano: Known for its speed and efficiency, perfect for quick edits and large files.
-- 🥑 Vim: A powerful text editor that aligns with my appreciation for efficiency and minimalism.
-
-**Version Control:**
-
-- 🐱 Git: Essential for tracking changes and collaborating with other developers.
-- 🐈‍⬛ GitHub: A platform to showcase my projects and contribute to open-source communities.
-
-**Programming Languages:**
-
-- 🐍 Python: My go-to language for its readability and vast standard library.
-- 🍊 HTML: Utilized for creating websites.
-- 📘 CSS: Perfect for bringing my websites to life.
-
-**Security Tools:**
-
-- 🐉 Kali Linux: A distribution tailored for penetration testing and security research.
-- 🐈 TAILS: A perfect live distribution for hiding my identity with TOR.
-- 🧅 The TOR browser: A perfect and secure browser for browsing onions.
 
 ****Thank you for taking the time to explore my profile. Let's connect and build something amazing together! 🌟****
 
