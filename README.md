@@ -39,6 +39,4 @@ I'm always open to networking and collaboration opportunities. You can reach me 
 
 ## 🌤️ Fun Fact
 
-Outside of technology, I have a passion for exploring nature, which teaches me valuable lessons about resilience, adaptability, and attention to detail - skills that I believe will serve me well in my future career.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+**Outside of technology, I have a passion for exploring nature, which teaches me valuable lessons about resilience, adaptability, and attention to detail - skills that I believe will serve me well in my future career.**
