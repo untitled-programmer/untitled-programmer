@@ -10,7 +10,7 @@
 
 *Throughout my career, I've developed a suite of applications that showcase my dedication to innovation and security:*
 
-**1. Notemp: The Advanced Note-Taking Application 📝**
+### **1. Notemp: The Advanced Note-Taking Application 📝**
 
 I engineered Notemp, a sophisticated note-taking application that combines the efficiency of Vim with the simplicity of Nano. Designed for both novice and advanced users, Notemp offers a seamless experience with features like:
 
@@ -18,7 +18,7 @@ I engineered Notemp, a sophisticated note-taking application that combines the e
 - Cross-Platform Support: Accessibility across various operating systems.
 - Enhanced Security: Easely encrypt your notes with GPG.
 
-**2. Password Toolkit: Brute Force Password Strength Simulator 🔐**
+### **2. Password Toolkit: Brute Force Password Strength Simulator 🔐**
 
 Understanding the importance of password security, I developed Password Toolkit, an application that simulates real-world brute force attacks on passwords. Key features include:
 
@@ -26,7 +26,7 @@ Understanding the importance of password security, I developed Password Toolkit,
 - Comprehensive Reporting: Provides detailed analysis and recommendations for password improvement.
 - User-Friendly Dashboard: Simplifies complex data for easy understanding.
 
-**3. SudoSpy: Advanced Social Engineering Tool 🕵️‍♂️**
+### **3. SudoSpy: Advanced Social Engineering Tool 🕵️‍♂️**
 
 SudoSpy is a cutting-edge application that demonstrates the vulnerabilities of GNU/Linux systems through social engineering tactics. It ethically educates users on security risks by:
 
@@ -34,14 +34,14 @@ SudoSpy is a cutting-edge application that demonstrates the vulnerabilities of G
 - System Information Retrieval: Showcases how easily system details can be accessed without proper security measures.
 - Educational Modules: Teaches users about common security pitfalls and how to avoid them.
 
-**4. PyFetch: A Modern Python Alternative to Neofetch 🐍**
+### **4. PyFetch: A Modern Python Alternative to Neofetch 🐍**
 
 Seeking to enhance system information displays, I created PyFetch, a Python-based alternative to Neofetch. PyFetch offers:
 
 - Lightweight Performance: Minimal resource consumption for optimal efficiency.
 - Detailed System Information: Provides comprehensive details about your system's hardware.
 
-**5. Package: The Ultimate Open-Source Intelligence Tool 🕵️‍♀️**
+### **5. Package: The Ultimate Open-Source Intelligence Tool 🕵️‍♀️**
 
 Package is a versatile tool designed for gathering open-source intelligence. It assists users in collecting and analyzing publicly available information through features like:
 
