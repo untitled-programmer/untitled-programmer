@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Untitled.</h1>
 
-<h3 align="center">I'm a dedicated software engineer based in Romania, specializing in cyber-security. I thrive on tackling complex challenges and delivering impactful solutions.</h3>
+<h3 align="center">I'm a dedicated software engineer, specializing in cyber-security. I thrive on tackling complex challenges and delivering impactful solutions.</h3>
 
 ## 🛠️ Skills & Technologies
 
