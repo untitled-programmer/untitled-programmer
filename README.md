@@ -39,4 +39,4 @@ I'm always open to networking and collaboration opportunities. You can reach me 
 
 ## 🌤️ Fun Fact
 
-**Outside of technology, I have a passion for exploring nature, nothing is more beautiful than ending the day by watching the sunset under a tree.
+**Outside of technology, I have a passion for exploring nature, nothing is more beautiful than ending the day by watching the sunset from under a tree.**
