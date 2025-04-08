@@ -39,4 +39,4 @@ I'm always open to networking and collaboration opportunities. You can reach me 
 
 ## 🌤️ Fun Fact
 
-**Outside of technology, I have a passion for exploring nature, which teaches me valuable lessons about resilience, adaptability, and attention to detail - skills that I believe will serve me well in my future career.**
+**Outside of technology, I have a passion for exploring nature, nothing is more beautiful than ending the day by watching the sunset under a tree.
