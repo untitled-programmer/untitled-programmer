@@ -36,7 +36,3 @@ I'm always open to networking and collaboration opportunities. You can reach me 
 
 - 📫 Email: untitled-guy.freedom027@slmail.me
 - 🐈‍⬛ Discord: untitled_yapper
-
-## 🌤️ Fun Fact
-
-**Outside of technology, I have a passion for exploring nature, nothing is more beautiful than ending the day by watching the sunset from under a tree.**
